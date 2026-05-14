@@ -1,33 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a54f78a7-1c78-4ee5-9aa3-b30ec8cd069c" name="Changes" comment="" />
+    <list default="true" id="9def55ee-2147-43c5-a776-3557a0cca011" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="5" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3,
+  "associatedIndex": 4,
   "fromUser": false
 }]]></component>
-  <component name="ProjectId" id="3Dh4Rh18U7Rw52de35Ii9g5ek4G" />
+  <component name="ProjectId" id="3Dh4XGwPKtNmMdi5FvsGttpMxJ4" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -38,20 +43,25 @@
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/tipan/OneDrive/Desktop/Programación/Proyecto primer nimestre Arquitectura",
+    "last_opened_file_path": "C:/Users/tipan/OneDrive/Desktop/Programación/Segundo semestre/Proyecto Primer Bimestre Arquitectura",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/tipan/OneDrive/Desktop/Programación/Segundo semestre/Proyecto Primer Bimestre Arquitectura/src/Main.java",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a54f78a7-1c78-4ee5-9aa3-b30ec8cd069c" name="Changes" comment="" />
-      <created>1778720961126</created>
+      <changelist id="9def55ee-2147-43c5-a776-3557a0cca011" name="Changes" comment="" />
+      <created>1778721013403</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1778720961126</updated>
-      <workItem from="1778720962182" duration="49000" />
+      <updated>1778721013403</updated>
+      <workItem from="1778721014582" duration="2534000" />
     </task>
     <servers />
   </component>
